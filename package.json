@@ -8,6 +8,9 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "npm run build "
+    "build": "npm run build"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.5"
   }
 }
